@@ -1,1 +1,1 @@
-## Next.js + Versel deploy
+## Next.js + Vercel deploy
